@@ -56,7 +56,11 @@ export default function MovieDetailsPage({ data }) {
             <NavLink to="cast" state={{ from: prevPath }} className="NavLink">
               Cast
             </NavLink>
-            <NavLink to="reviews" state={{ from: prevPath }} className="NavLink">
+            <NavLink
+              to="reviews"
+              state={{ from: prevPath }}
+              className="NavLink"
+            >
               Review
             </NavLink>
           </div>

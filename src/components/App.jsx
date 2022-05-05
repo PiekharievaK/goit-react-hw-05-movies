@@ -37,9 +37,9 @@ export const App = () => {
       <Navigation />
       <Suspense>
         <Routes>
-          <Route path="/goit-react-hw-05-movies" element={<HomePage />} />
+          <Route path="/" element={<HomePage />} />
           <Route path="/movies" element={<MoviesPage />} />
-          <Route path="/movies/:id/" element={<MovieDetailsPage />}>
+          <Route path="/movies/:id/*" element={<MovieDetailsPage />}>
             <Route path="cast" element={<MovieCast />} />
             <Route path="reviews" element={<MovieReviews />} />
           </Route>

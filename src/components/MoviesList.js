@@ -6,7 +6,7 @@ export default function MoviesList({ data }) {
 
   return (
     <div>
-      {data && ( data.length>0?
+      {data && (
         <ul>
           {data.map(movie => (
             <li key={movie.id}>
@@ -16,7 +16,6 @@ export default function MoviesList({ data }) {
             </li>
           ))}
         </ul>
-        :<h2>No Results</h2>
       )}
     </div>
   );
