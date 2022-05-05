@@ -23,9 +23,7 @@ export default function MoviesPage() {
   };
 
   const handleSubmit = e => {
-    if (query.trim() === '') {
-      return;
-    }
+  
     e.preventDefault();
     setSearchParams({ query });
     FetchSearchMovie(query).then(resp => setMovies(resp));
