@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/goit-react-hw-05-movies/static/css/main.57c5ea42.css",
-    "main.js": "/goit-react-hw-05-movies/static/js/main.5fb119b0.js",
+    "main.js": "/goit-react-hw-05-movies/static/js/main.bb1173c7.js",
     "home-page.js": "/goit-react-hw-05-movies/static/js/home-page.e9559062.chunk.js",
-    "movies-page.js": "/goit-react-hw-05-movies/static/js/movies-page.5d623c2b.chunk.js",
+    "movies-page.js": "/goit-react-hw-05-movies/static/js/movies-page.94c1255e.chunk.js",
     "movie-detalis-page.js": "/goit-react-hw-05-movies/static/js/movie-detalis-page.a6553afa.chunk.js",
     "navigation.js": "/goit-react-hw-05-movies/static/js/navigation.6952615f.chunk.js",
     "cast.js": "/goit-react-hw-05-movies/static/js/cast.c5e53bfc.chunk.js",
@@ -11,9 +11,9 @@
     "static/js/774.73377aff.chunk.js": "/goit-react-hw-05-movies/static/js/774.73377aff.chunk.js",
     "index.html": "/goit-react-hw-05-movies/index.html",
     "main.57c5ea42.css.map": "/goit-react-hw-05-movies/static/css/main.57c5ea42.css.map",
-    "main.5fb119b0.js.map": "/goit-react-hw-05-movies/static/js/main.5fb119b0.js.map",
+    "main.bb1173c7.js.map": "/goit-react-hw-05-movies/static/js/main.bb1173c7.js.map",
     "home-page.e9559062.chunk.js.map": "/goit-react-hw-05-movies/static/js/home-page.e9559062.chunk.js.map",
-    "movies-page.5d623c2b.chunk.js.map": "/goit-react-hw-05-movies/static/js/movies-page.5d623c2b.chunk.js.map",
+    "movies-page.94c1255e.chunk.js.map": "/goit-react-hw-05-movies/static/js/movies-page.94c1255e.chunk.js.map",
     "movie-detalis-page.a6553afa.chunk.js.map": "/goit-react-hw-05-movies/static/js/movie-detalis-page.a6553afa.chunk.js.map",
     "navigation.6952615f.chunk.js.map": "/goit-react-hw-05-movies/static/js/navigation.6952615f.chunk.js.map",
     "cast.c5e53bfc.chunk.js.map": "/goit-react-hw-05-movies/static/js/cast.c5e53bfc.chunk.js.map",
@@ -22,6 +22,6 @@
   },
   "entrypoints": [
     "static/css/main.57c5ea42.css",
-    "static/js/main.5fb119b0.js"
+    "static/js/main.bb1173c7.js"
   ]
 }
